@@ -1,2 +1,2 @@
-# Ola_mundo
- primiero repositorio do cruso de git e github
+# Olá, mundo!
+ Primeiro repositório do cruso de Git e GitHub.
